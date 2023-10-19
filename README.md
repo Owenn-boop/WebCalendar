@@ -1,6 +1,6 @@
 # WebCalendar
 
-Converts Inches to CM as well as Miles to Kilometers.
+Stores (and displays) calendar items to a database via web UI.
 
 http://localhost:8080/WebCalendar/
 
